@@ -1,1 +1,1 @@
-rebase-practiceブランチで更新(rebase用)
+mainブランチで更新(rebaseコンフリクト用)
